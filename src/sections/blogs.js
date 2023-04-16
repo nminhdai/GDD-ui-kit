@@ -21,7 +21,7 @@ const BLOG_DATA = [
   {
     image: null,
     title:
-      "Antibias receives honorable gift mention at Fast Company’s most Innovation by Design Awards",
+      "Advantages of using natural and organic hair products and how they can improve the health of hair and scalp.",
     description: null,
     path: "/",
     linkLabel: null,
