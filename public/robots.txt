@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://startup-agency-classic.vercel.app
+Host: https://giadinhdev.com
 
 # Sitemaps
-Sitemap: https://startup-agency-classic.vercel.app/sitemap.xml
+Sitemap: https://giadinhdev.com/sitemap.xml
