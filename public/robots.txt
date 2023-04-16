@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://startup-agency-classic.vercel.app
+
+# Sitemaps
+Sitemap: https://startup-agency-classic.vercel.app/sitemap.xml
